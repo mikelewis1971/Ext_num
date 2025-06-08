@@ -487,7 +487,7 @@ This avoids floating-point rounding on decode.
 
 ---
 
-## V. Practical Workflows & Examples (≈900 words)
+## V. Practical Workflows & Examples 
 
 Below are common workflows illustrating ExtNum’s utility.
 
