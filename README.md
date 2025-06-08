@@ -629,7 +629,7 @@ This burdens every division with `try/except`. ExtNum avoids the exception, retu
 
 ---
 
-## VII. Integration Strategies (≈400 words)
+## VII. Integration Strategies 
 
 ### 1. Gradual Adoption
 
@@ -705,7 +705,7 @@ Decorate existing functions for seamless ExtNum input/output.
 
 ---
 
-## IX. Edge Cases & Limitations (≈400 words)
+## IX. Edge Cases & Limitations 
 
 ### 1. Lost Precision in Floats
 
@@ -729,7 +729,7 @@ Decorate existing functions for seamless ExtNum input/output.
 
 ---
 
-## X. Future Extensions & Research Directions (≈400 words)
+## X. Future Extensions & Research Directions
 
 ### 1. Symbolic Variables
 
